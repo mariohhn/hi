@@ -156,7 +156,7 @@ decalspam_8.BorderSizePixel = 2
 decalspam_8.Position = UDim2.new(-0.307803869, 0, 19.4777412, 0)
 decalspam_8.Size = UDim2.new(0, 261, 0, 50)
 decalspam_8.Font = Enum.Font.Arial
-decalspam_8.Text = "theme"
+decalspam_8.Text = "get f3x"
 decalspam_8.TextColor3 = Color3.fromRGB(255, 255, 255)
 decalspam_8.TextSize = 23.000
 
